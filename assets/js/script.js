@@ -15,7 +15,7 @@ function Slide(title, subtitle, background, link ) {
 
 var slide1 = new Slide(
    "C.C.Catch",
-   "Поещая легенда",
+   "Поющая легенда",
    "assets/img/1.jpeg",
    "https://www.youtube.com/watch?v=t59NPbptvco"
 );
